@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Preview my solution](https://christianark.github.io/easybank-landing-page/)
+- Solution URL: [Preview my solution](https://fadashanti-easybank-challenge.netlify.app/)
 
 ## My process
 
@@ -19,6 +19,5 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- BEM CSS methodology
 - Flexbox
-- Desktop-first workflow
+- Mobile-first workflow
